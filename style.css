@@ -1,3 +1,7 @@
+h1{
+    background-color: yellow;
+    color: black
+}
 @layer reset, base, composition, features, utilities;
 
 @import "https://cdn.jsdelivr.net/npm/kiso.css@latest/kiso.css" layer(reset);
