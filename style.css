@@ -1,6 +1,7 @@
 h1{
     background-color: green;
     color: purple;
+    border-radius: 40px;
 }
 @layer reset, base, composition, features, utilities;
 
